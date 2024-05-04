@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "compactium:ruby"
+    }
+  },
+  "result": {
+    "item": "compactium:ruby_block"
+  }
+}
