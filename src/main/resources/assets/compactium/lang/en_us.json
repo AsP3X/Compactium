@@ -2,5 +2,8 @@
   "item.compactium.ruby": "Ruby",
   "item.compactium.raw_ruby": "Raw Ruby",
 
-  "itemgroup.ruby": "Ruby Tutorial Group"
+  "block.compactium.ruby_block": "Block of Ruby",
+  "block.compactium.ruby_raw_block": "Block of raw Ruby",
+
+  "itemgroup.ruby": "Compactium Blocks"
 }

@@ -1,5 +1,6 @@
 package de.corespace.compactium;
 
+import de.corespace.compactium.block.ModBlocks;
 import de.corespace.compactium.item.ModItemGroups;
 import de.corespace.compactium.item.ModItems;
 import net.fabricmc.api.ModInitializer;
@@ -14,6 +15,8 @@ public class Compactium implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		ModItemGroups.registerItemGroups();
+
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 	}
 }
