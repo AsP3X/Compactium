@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "compactium",
+	"version": "${version}",
+	"name": "Compactium",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"AsP3X"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/compactium/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"de.corespace.compactium.Compactium"
+		],
+		"fabric-datagen": [
+			"de.corespace.compactium.CompactiumDataGenerator"
+		]
+	},
+	"mixins": [
+		"compactium.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
