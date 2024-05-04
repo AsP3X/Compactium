@@ -20,6 +20,7 @@ public class ModItemGroups {
 
                         entries.add(ModBlocks.RUBY_BLOCK);
                         entries.add(ModBlocks.RUBY_RAW_BLOCK);
+                        entries.add(ModBlocks.RUBY_ORE);
                     }).build());
 
     public static void registerItemGroups() {

@@ -1,11 +1,11 @@
 {
-  "type": "minecraft:blasting",
+  "type": "minecraft:smelting",
   "category": "misc",
-  "cookingtime": 100,
+  "cookingtime": 200,
   "experience": 0.7,
   "group": "ruby",
   "ingredient": {
-    "item": "compactium:ruby_raw_block"
+    "item": "compactium:ruby_ore"
   },
   "result": "compactium:ruby"
 }
