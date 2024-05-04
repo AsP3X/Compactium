@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "compactium:ruby_block",
+    "compactium:ruby_raw_block"
+  ]
+}
