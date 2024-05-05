@@ -22,6 +22,7 @@ public class ModItemGroups {
                         entries.add(ModBlocks.RUBY_RAW_BLOCK);
                         entries.add(ModBlocks.RUBY_ORE);
                         entries.add(ModBlocks.RUBY_DEEPSLATE_ORE);
+                        entries.add(ModBlocks.RUBY_NETHER_ORE);
                     }).build());
 
     public static void registerItemGroups() {

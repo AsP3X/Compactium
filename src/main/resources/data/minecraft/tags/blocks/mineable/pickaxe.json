@@ -4,6 +4,7 @@
     "compactium:ruby_block",
     "compactium:ruby_raw_block",
     "compactium:ruby_ore",
-    "compactium:ruby_deepslate_ore"
+    "compactium:ruby_deepslate_ore",
+    "compactium:ruby_nether_ore"
   ]
 }
