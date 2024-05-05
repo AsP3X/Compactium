@@ -5,6 +5,7 @@
   "block.compactium.ruby_block": "Block of Ruby",
   "block.compactium.ruby_raw_block": "Block of raw Ruby",
   "block.compactium.ruby_ore": "Block of Ruby ore",
+  "block.compactium.ruby_deepslate_ore": "Block of Ruby deepslate ore",
 
   "itemgroup.ruby": "Compactium Blocks"
 }

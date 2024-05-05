@@ -25,6 +25,9 @@ public class ModBlocks {
     public static final Block RUBY_ORE = registerBlock("ruby_ore",
             new ExperienceDroppingBlock(FabricBlockSettings.copyOf(Blocks.STONE).strength(2f), UniformIntProvider.create(2, 5)));
 
+    public static final Block RUBY_DEEPSLATE_ORE = registerBlock("ruby_deepslate_ore",
+            new ExperienceDroppingBlock(FabricBlockSettings.copyOf(Blocks.DEEPSLATE), UniformIntProvider.create(2, 5)));
+
 
     private static Block registerBlock(String name, Block block) {
         registerBlockItem(name, block);
