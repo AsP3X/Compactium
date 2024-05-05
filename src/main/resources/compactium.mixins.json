@@ -3,7 +3,7 @@
 	"package": "de.corespace.compactium.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [
-		"ExampleMixin"
+		"CompactiumMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
